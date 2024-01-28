@@ -1,0 +1,6 @@
+C:\Users\todor\OneDrive\Desktop\Isolated\program-build\bin\Debug\program-build-x86-debug.dll
+C:\Users\todor\OneDrive\Desktop\Isolated\program-build\bin\Debug\program-build-x86-debug.pdb
+C:\Users\todor\OneDrive\Desktop\Isolated\program-build\obj\Debug\program-build.csproj.AssemblyReference.cache
+C:\Users\todor\OneDrive\Desktop\Isolated\program-build\obj\Debug\program-build.csproj.CoreCompileInputs.cache
+C:\Users\todor\OneDrive\Desktop\Isolated\program-build\obj\Debug\program-build-x86-debug.dll
+C:\Users\todor\OneDrive\Desktop\Isolated\program-build\obj\Debug\program-build-x86-debug.pdb
